@@ -13,6 +13,7 @@
 - Member 4
 
 ## Program committee
+Is there such a thing for this conference?
 
 ## Venue options
 - Bifrost
